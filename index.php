@@ -12,7 +12,7 @@ $articles= $article->fetch_all();
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>CMS Blog</title>
+    <title>Content Management System Blog</title>
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
