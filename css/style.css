@@ -1,11 +1,12 @@
 body{
-  padding-top: 120px;
+  padding-top:120px;
   font-style: Arial;
 }
 
 .container{
  width : 500px;
  margin: 0 auto;
+ text-align: center;
 }
 
 a:link,a:visited{
@@ -18,6 +19,7 @@ a:hover{
   color: #444;
   border-bottom-color: #444;
 }
+
 
 small{
   color: #999;
@@ -37,3 +39,14 @@ input[type=text],[type=password],textarea{
     padding: 5px;
     border: 1px solid #ccc;
 }
+button {
+   line-height: 12px;
+   width: 18px;
+   font-size: 8pt;
+   font-family: tahoma;
+   margin-top: 1px;
+   margin-right: 2px;
+   position:absolute;
+   top:0;
+   right:0;
+ }
